@@ -1,0 +1,3 @@
+#take token on site: https://replicate.com/account/api-tokens and paste it in secrtes.toml REPLICATE_API_TOKEN
+#install requirements.txt
+# command for start apps - "streamlit run main.py"
